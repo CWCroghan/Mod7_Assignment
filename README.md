@@ -76,10 +76,8 @@ The mentorship program will help train the current staff. However, the number of
     <thead>
         <tr>
             <th colspan="2">Number of Eligible Employees for Mentorship program grouped by title.</th>
-
         </tr>
     </thead>
-	
     <tbody>
     	<tr>
 		<td>Count        </td>    
