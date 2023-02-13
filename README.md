@@ -80,30 +80,32 @@ The mentorship program will help train the current staff. However, the number of
         </tr>
     </thead>
     <tbody>
-        <tr>
-
-<td>Count        </td>    
-<td>Title        </td>    
+    <tr>
+	<td>Count        </td>    
+	<td>Title        </td>    
+      </tr>
+      <tr> 
+	<td>518               </td>  
+	<td>"Senior Staff"    </td>  
+      </tr>
+	<tr>
+		<td>479          </td>  
+		<td>"Engineer"   </td>  
         </tr>
-
-
-<td>518               </td>  
-<td>"Senior Staff"    </td>  
+		<td>206       </td>  
+		<td>"Staff"   </td>  
         </tr>
-479          </td>  
-"Engineer"   </td>  
+	        <tr>
+		<td>197                   </td>  
+		<td>"Senior Engineer"     </td>  
         </tr>
-<td>206       </td>  
-<td>"Staff"   </td>  
+	<tr>
+		<td>77                       </td>  
+		<td>"Technique Leader"       </td>  
         </tr>
-<td>197                   </td>  
-<td>"Senior Engineer"     </td>  
-        </tr>
-<td>77                       </td>  
-<td>"Technique Leader"       </td>  
-        </tr>
-<td>72 					 </td>  
-<td>"Assistant Engineer"       </td>  
+	<tr>
+		<td>72 	</td>  
+		<td>"Assistant Engineer"  </td>  
         </tr>    
 
     </tbody>  
