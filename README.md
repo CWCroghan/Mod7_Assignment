@@ -5,6 +5,7 @@ The world and the United States, in particular, is undergoing a sizablesizeable 
 To better understand the rate of possible retirement, the company, Pewlett Hackard, wants to investigate the number of individuals who meet the criteria for retirement and those who might qualify for a tiered retirement program that emphasizes mentorship for the next generation of employees.
 
 # Results:
+
 A data table, retirement_titles,  was generated containing the eligible employees to retire in the coming year.    There are 72,458 records in this data table.  This table contains the following columns: 
 emp_no: unique identifier for each employee
 first_name: First name of the employee
@@ -16,7 +17,8 @@ to_date: Indicator variable showing that the employee is currently employed
 From this table, two additional tables were generated, unique_titles and retiring_titles. The retiring_titles table contains the count of employees who are about to retire and their position titles. 
 A data table, mentorship_eligibilty, was created for those employees who meet the requirements for the proposed mentorship program.  These requirements were that the employee was born in 1965 and is currently employed.   The columns in the table are identical to those in the retirement_titles with the addition of birth_date, which is the employee’s birth date.  There are 1,549 records in the mentorship_eligibility table.
 
-Summary:
+# Summary:
+
 Pewlett Hackard is facing a severe problem in that 30% of its staff is eligible to retire.  There will have to be a concerted effort in hiring to maintain the staffing requirements to run the company.  In addition, they are looking at a problem commonly referred to as ‘brain drain.’ Of the eligible individuals to retire, 75% hold senior and leadership positions.  The company must ensure that the current staff are positioned to fill the upcoming gaps. 
 
 <table>
